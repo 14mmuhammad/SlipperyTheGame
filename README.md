@@ -19,3 +19,5 @@ https://ssjcoderonyt.itch.io/slippery-the-game ||
 Follow me on YouTube: https://www.youtube.com/channel/UCsuz099lBAREjwEyjVTgg_A ||
 
 Follow me on itch.io: https://ssjcoderonyt.itch.io/ ||
+
+Also my new GitHub account: https://github.com/ssjCoderYT ||
